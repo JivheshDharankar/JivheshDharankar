@@ -1,112 +1,123 @@
-<div align="center">
+::: {align="center"}
 
-# Jivhesh Dharankar
+Jivhesh Dharankar
 
-### B.Tech CSE (AI/ML) • Backend • AI/ML • Open Source
+CSE (AI/ML) @ Vedam · Java, Python, TypeScript · Backend + AI Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=7F5AF0&center=true&vCenter=true&width=850&lines=Building+AI+%2B+full-stack+applications;Learning+backend+and+cloud+engineering;Contributing+to+real-world+open+source;Java+%7C+Python+%7C+TypeScript+%7C+React" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=7F5AF0&center=true&vCenter=true&width=820&lines=Building+backend+%2B+AI+systems;Learning+cloud+and+distributed+systems;Contributing+to+real-world+open+source;Java+%7C+Python+%7C+TypeScript+%7C+React" alt="Typing animation" />{=html}
 
-<br/>
+<br>{=html}
 
-<a href="https://github.com/JivheshDharankar?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-7F5AF0?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/JivheshDharankar?tab=repositories">{=html}
+<img src="https://img.shields.io/badge/Repositories-24-7F5AF0?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">{=html}
+</a>{=html}
+<a href="https://github.com/JivheshDharankar?tab=followers">{=html}
+<img src="https://img.shields.io/github/followers/JivheshDharankar?style=for-the-badge&logo=github&logoColor=white" alt="Followers">{=html}
+</a>{=html}
+<img src="https://komarev.com/ghpvc/?username=JivheshDharankar&style=for-the-badge&color=2CB67D" alt="Profile views">{=html}
+:::
 
-<a href="https://github.com/JivheshDharankar?tab=followers">
-<img src="https://img.shields.io/github/followers/JivheshDharankar?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+👋 About Me
 
-<img src="https://komarev.com/ghpvc/?username=JivheshDharankar&style=for-the-badge&color=2CB67D" alt="Profile views" />
+I'm a B.Tech CSE (AI/ML) student focused on building practical
+software across backend engineering, AI/ML, and full-stack
+development.
 
-</div>
+I also contribute to real-world open-source projects, with a growing
+focus on APIs, testing, cloud-native systems, and developer
+infrastructure.
 
----
+What I'm focused on
 
-## 👋 About Me
+☕ Java --- DSA, backend engineering, and problem solving
 
-I'm a **B.Tech CSE (AI/ML) student** building software across **AI/ML, backend and full-stack development**, while developing deeper experience through real-world open source.
+🧠 AI/ML --- practical AI applications and intelligent systems
 
-### Currently focused on
+⚛️ React + TypeScript --- modern full-stack applications
 
-- ☕ **Java** for DSA and backend engineering
-- 🧠 **AI/ML** applications and practical AI systems
-- ⚛️ **React + TypeScript** for full-stack products
-- 🐍 **Python + FastAPI** for AI and backend services
-- 🗄️ **SQL / MongoDB** and API development
-- ☁️ Exploring **Docker, Kubernetes and cloud engineering**
-- 🌎 Contributing to **cloud-native and developer-focused open source**
+🐍 Python + FastAPI --- AI and backend services
 
-> **Build → Debug → Test → Contribute → Learn**
+🗄️ SQL / MongoDB --- data and API-driven applications
 
----
+☁️ Docker → Kubernetes → Cloud --- infrastructure and
+distributed systems
 
-## 🛠️ Tech Stack
+🌎 Open Source --- issue investigation, implementation, testing,
+and maintainer feedback
 
-### Languages
+Build → Debug → Test → Contribute → Learn
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,sql" />
-</p>
+🛠️ Tech Stack
 
-### Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,fastapi,postgres,mongodb" />
-</p>
-
-### Tools & Infrastructure
+Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux" />
+
+<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript" height="48" alt="Java Python TypeScript JavaScript">{=html}
+<img src="https://skillicons.dev/icons?i=mysql" height="48" alt="SQL">{=html}
+
 </p>
 
----
+Backend & Full Stack
 
-# 🚀 Featured Projects
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,fastapi" height="48" alt="React Vite Node.js Express FastAPI">{=html}
+
+</p>
+
+Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" height="48" alt="PostgreSQL MongoDB">{=html}
+
+</p>
+
+Tools & Infrastructure
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux" height="48" alt="Git GitHub Docker Kubernetes Linux">{=html}
+
+</p>
+
+🚀 Featured Projects
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
-## 🧠 Parity
+🧠 Parity
 
-### AI Finance Controller
+AI Finance Controller
 
-AI-powered finance automation built with **FastAPI + React + Gemini**.
+AI-powered finance automation built with FastAPI + React + Gemini.
 
-**Highlights**
+Highlights - Policy-based transaction analysis - HMAC webhook
+verification - Audit trail - Excel reporting - Automated tests
 
-- Policy-based transaction analysis
-- HMAC webhook verification
-- Audit trail
-- Excel reporting
-- Automated tests
-
-<a href="https://github.com/JivheshDharankar/parity">
-<b>View Repository →</b>
-</a>
+<a href="https://github.com/JivheshDharankar/parity">{=html}
+<b>{=html}View Repository →</b>{=html} </a>{=html}
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📚 DSA Tracker
+📚 DSA Tracker
 
-### DSA Progress & Revision
+DSA Progress & Revision
 
-A personal DSA tracking platform focused on structured practice and long-term revision.
+A personal DSA tracking platform designed for structured practice and
+long-term revision.
 
-**Highlights**
+Highlights - Problem tracking - Progress analytics - Spaced recall -
+Personal / college separation
 
-- Problem tracking
-- Progress analytics
-- Spaced recall
-- Personal / college separation
-
-<a href="https://github.com/JivheshDharankar/DSA-TRACKER">
-<b>View Repository →</b>
-</a>
+<a href="https://github.com/JivheshDharankar/DSA-TRACKER">{=html}
+<b>{=html}View Repository →</b>{=html} </a>{=html}
 
 </td>
 
@@ -116,141 +127,118 @@ A personal DSA tracking platform focused on structured practice and long-term re
 
 <td width="50%" valign="top">
 
-## 📊 StatIntel
+📊 StatIntel
 
-### Data Intelligence Platform
+Data Intelligence Platform
 
-A full-stack data intelligence project combining **React, TypeScript, Express, FastAPI and Supabase**.
+A full-stack data intelligence project combining React, TypeScript,
+Express, FastAPI and Supabase.
 
-**Highlights**
-
-- RAG pipeline
-- Vector search
-- Document processing
-- Data exploration
+Highlights - RAG pipeline - Vector search - Document processing -
+Data exploration
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🏥 MedAI-Ops
+🏥 MedAI-Ops
 
-### AI + Backend Engineering
+AI + Backend Engineering
 
-An AI-oriented project focused on practical application architecture and backend development.
+An AI-oriented project focused on practical application architecture and
+backend development.
 
-<a href="https://github.com/JivheshDharankar/MedAI-Ops">
-<b>View Repository →</b>
-</a>
+<a href="https://github.com/JivheshDharankar/MedAI-Ops">{=html}
+<b>{=html}View Repository →</b>{=html} </a>{=html}
 
 </td>
 
 </tr>
+
 </table>
 
----
+🌎 Open Source
 
-# 🌎 Open Source
+I'm building experience through real-world open-source codebases,
+focusing on understanding existing systems, reproducing issues,
+implementing fixes, testing changes, and working with maintainers.
 
-I'm actively building experience through **real-world open-source codebases**, focusing on issue investigation, implementation, testing and maintainer feedback.
+Apicurio Registry
 
-### Current OSS Focus
+PR #10420 --- Confluent-compatible response compression
 
-**Cloud-Native / Developer Infrastructure**
+Implemented a fix so Confluent-compatible response media types are
+included in HTTP compression configuration.
 
-- **Apicurio Registry**
-  - REST / API fixes
-  - Configuration improvements
-  - Maintainer review
-- **Headlamp**
-  - Backend + test investigation
-- **Karmada**
-  - Issue investigation + contribution work
+Status: Maintainer-approved; Quick Check gate passed; awaiting the
+remaining verification/merge gate.
 
-### Apicurio Registry
+<a href="https://github.com/Apicurio/apicurio-registry/pull/10420">{=html}
+<img src="https://img.shields.io/badge/View%20PR-%2310420-7F5AF0?style=for-the-badge&logo=github&logoColor=white" alt="View Apicurio PR #10420">{=html}
+</a>{=html}
 
-**PR #10420 — Confluent-compatible response compression**
+Current OSS Focus
 
-Implemented a fix so Confluent-compatible response media types are included in HTTP compression configuration.
+Project                 Focus
 
-**Status:** Approved by maintainer; passed the Quick Check gate and awaiting the remaining verification/merge gate.
+Apicurio Registry   REST / API fixes, configuration improvements
+Headlamp            Backend and test investigation
+Karmada             Issue investigation and contribution work
 
-<a href="https://github.com/Apicurio/apicurio-registry/pull/10420">
-<b>View PR #10420 →</b>
-</a>
+Understand → Reproduce → Fix → Test → Review → Contribute
 
-### Contribution Philosophy
+📈 GitHub Activity
 
-> **Understand → Reproduce → Fix → Test → Review → Contribute**
+::: {align="center"}
+<img src="https://github-readme-stats.vercel.app/api?username=JivheshDharankar&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent&cache_seconds=86400" height="170" alt="Jivhesh's GitHub statistics">{=html}
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JivheshDharankar&layout=compact&langs_count=8&hide_border=true&theme=transparent&cache_seconds=86400" height="170" alt="Most used languages">{=html}
 
-# 📈 GitHub Activity
+<br>{=html}
 
-<div align="center">
+<img src="https://streak-stats.demolab.com?user=JivheshDharankar&hide_border=true&theme=transparent" height="170" alt="GitHub streak">{=html}
+:::
 
-<img src="https://github-readme-stats.vercel.app/api?username=JivheshDharankar&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent" height="170" />
+🎯 2026 → 2027
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JivheshDharankar&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="170" />
+Focus            Direction
 
-<br/>
+☕ Java          DSA + backend engineering
+🧠 AI/ML         Practical AI applications
+🏗️ Backend       APIs, databases, testing & architecture
+⚛️ Full Stack    React + TypeScript applications
+☁️ Cloud         Docker → Kubernetes → Cloud
+🌎 Open Source   Meaningful, consistent contributions
+💼 Career        Strong software engineering internship profile
 
-<img src="https://streak-stats.demolab.com?user=JivheshDharankar&hide_border=true&theme=transparent" height="170" />
+🧭 Engineering Direction
 
-</div>
+::: {align="center"}
 
----
+AI/ML
 
-# 🎯 2026 → 2027
+↓ ### Backend Engineering ↓ ### Cloud & Distributed Systems
+↓ ### Open Source
 
-| Focus | Direction |
-|---|---|
-| ☕ Java | DSA + backend engineering |
-| 🧠 AI/ML | Practical AI applications |
-| 🏗️ Backend | APIs, databases, testing & architecture |
-| ⚛️ Full Stack | React + TypeScript applications |
-| ☁️ Cloud | Docker → Kubernetes → Cloud |
-| 🌎 Open Source | Meaningful, consistent contributions |
-| 💼 Career | Strong software engineering internship profile |
+<br>{=html}
 
----
+Building real software. Learning from real codebases.
+:::
 
-# 📌 What I'm Working Toward
+🤝 Connect
 
-<div align="center">
+::: {align="center"}
+<a href="https://github.com/JivheshDharankar">{=html}
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">{=html}
+</a>{=html}
+<a href="https://www.linkedin.com/in/jivheshdharankar/">{=html}
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">{=html}
+</a>{=html} <a href="mailto:jivheshdharankar@gmail.com">{=html}
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">{=html}
+</a>{=html}
 
-### AI/ML
+<br>{=html}<br>{=html}
 
-**+**
+Build • Debug • Learn • Contribute
 
-### Backend Engineering
-
-**+**
-
-### Cloud & Open Source
-
-<br/>
-
-**Building real software. Learning from real codebases.**
-
-</div>
-
----
-
-# 🤝 Connect
-
-<div align="center">
-
-<a href="https://github.com/JivheshDharankar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### Build • Debug • Learn • Contribute
-
-</div>
+:::
