@@ -14,7 +14,7 @@
 <a href="https://github.com/JivheshDharankar?tab=followers">
   <img src="https://img.shields.io/github/followers/JivheshDharankar?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=JivheshDharankar&style=for-the-badge&color=2CB67D" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=JivheshDharankar&label=PROFILE+VIEWS&color=2CB67D&style=for-the-badge" alt="Profile views" />
 
 <br/><br/>
 
@@ -225,11 +225,17 @@ Documentation change clarifying that `apicurio.storage.content-cache.max-size` a
 <div align="center">
 
 ### AI/ML
+
 ↓
+
 ### Backend Engineering
+
 ↓
+
 ### Cloud & Distributed Systems
+
 ↓
+
 ### Open Source
 
 <br/>
